@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help with ...Machine Learning
 - 💬 Ask me about ...Anything 
 - 📫 How to reach me: ...bishwadeep05ghosh@gmail.com
-- 😄 Pronouns: ...Him/He 
 - ⚡ Fun fact: ...I am always ready for some coffee.
