@@ -1,4 +1,4 @@
-### Hi there 👋 This is Bishwadeep Ghosh. I am a full stack web developer I have completed my graduation in 2022
+### Hi there 👋 This is Bishwadeep Ghosh. I am a full stack web developer
  
   
 
