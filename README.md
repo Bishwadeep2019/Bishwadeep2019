@@ -5,4 +5,5 @@
 - 👯 I’m currently learning node js.
 - 💬 Ask me about .net core because it's fun
 - 📫 How to reach me: bishwadeep05ghosh@gmail.com
+- Learning react these days.
 
